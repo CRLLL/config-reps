@@ -1,9 +1,4 @@
 
-eureka:
-  client:
-    service-url:
-      defaultZone: http://193.112.100.103:8761/eureka/
-
 server:
   tomcat:
     max-threads: 500 # Maximum amount of worker threads.
